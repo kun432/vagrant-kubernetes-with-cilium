@@ -31,5 +31,6 @@ Temporary Items
 ### https://raw.github.com/github/gitignore/94d87c504178b3a4e8b95eb95e78e96c6ccefe46/Global/Vagrant.gitignore
 
 .vagrant/
-share/
+share/*
 *.log
+!.gitkeep
